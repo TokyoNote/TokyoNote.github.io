@@ -1,11 +1,11 @@
 # Site settings
 author: Camiyah Goins
-title: 
+title: First Flatiron Blog
 header-img: img/home-bg.png
 email: tokyonote9@gmail.com
 copyright_name: Camiyah Goins
 description: > # this means to ignore newlines until "baseurl:"
-  
+  How I Got Here
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  TokyoNote
