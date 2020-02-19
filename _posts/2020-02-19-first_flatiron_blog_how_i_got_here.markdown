@@ -1,9 +1,11 @@
 ---
 layout: post
-title:      "First Flatiron Blog: How I got Here"
-date:       2020-02-19 13:23:23 +0000
+title:      "First Flatiron Blog"
+date:       2020-02-19 08:23:24 -0500
 permalink:  first_flatiron_blog_how_i_got_here
 ---
+
+## How I Got Here
 
 
 For starters, my name is Camiyah Goins.  I'm a Floridian hailing from Tennessee.  I'm a college honors student, a new server at my Cracker Barrel, and I'm aspiring software developer all at once.  Days are hectic, and nights are worse.  But I never quit or give up.  I ended up here like I ended up in TN, by listening to my God's voice.  As a Christian, that means I'm crazy. But at least I do what I love and live my best life.
